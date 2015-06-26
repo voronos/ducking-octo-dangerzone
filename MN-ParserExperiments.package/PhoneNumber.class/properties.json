@@ -1,0 +1,16 @@
+{
+	"category" : "MN-ParserExperiments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"areaCode",
+		"countryCode",
+		"digits" ],
+	"name" : "PhoneNumber",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
