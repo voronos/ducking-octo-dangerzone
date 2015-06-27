@@ -8,11 +8,14 @@
 	"instvars" : [
 		"areaCode",
 		"countryCode",
-		"prefix",
+		"extension",
 		"lineNumber",
-		"extension" ],
-	"name" : "PhoneNumber",
+		"prefix",
+		"separator",
+		"countryAndOrAreaCode",
+		"phoneNumber" ],
+	"name" : "PhoneNumberGrammar",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "PPCompositeParser",
 	"type" : "normal" }

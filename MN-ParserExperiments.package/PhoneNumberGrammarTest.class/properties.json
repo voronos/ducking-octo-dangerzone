@@ -6,13 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"areaCode",
-		"countryCode",
-		"prefix",
-		"lineNumber",
-		"extension" ],
-	"name" : "PhoneNumber",
+		 ],
+	"name" : "PhoneNumberGrammarTest",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "PPCompositeParserTest",
 	"type" : "normal" }
