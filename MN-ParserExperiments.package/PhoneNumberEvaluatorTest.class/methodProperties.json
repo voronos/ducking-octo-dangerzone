@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"parserClass" : "MarkNelson 6/27/2015 14:03",
+		"setUp" : "MarkNelson 6/27/2015 14:10",
+		"testAreaCode" : "MarkNelson 6/27/2015 14:35",
+		"testCountryCode" : "MarkNelson 6/27/2015 14:11",
+		"testExtension" : "MarkNelson 6/27/2015 14:22",
+		"testLineNumber" : "MarkNelson 6/27/2015 14:37",
+		"testPhoneNumber" : "MarkNelson 6/27/2015 14:41",
+		"testPrefix" : "MarkNelson 6/27/2015 14:39" } }

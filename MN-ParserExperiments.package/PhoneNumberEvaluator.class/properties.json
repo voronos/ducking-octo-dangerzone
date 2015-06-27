@@ -1,0 +1,18 @@
+{
+	"category" : "MN-ParserExperiments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parsedAreaCode",
+		"parsedCountryCode",
+		"parsedPrefix",
+		"parsedLineNumber",
+		"parsedExtension" ],
+	"name" : "PhoneNumberEvaluator",
+	"pools" : [
+		 ],
+	"super" : "PhoneNumberGrammar",
+	"type" : "normal" }

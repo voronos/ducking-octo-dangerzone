@@ -1,0 +1,14 @@
+{
+	"category" : "MN-ParserExperiments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"evaluator" ],
+	"name" : "PhoneNumberEvaluatorTest",
+	"pools" : [
+		 ],
+	"super" : "PPCompositeParserTest",
+	"type" : "normal" }
