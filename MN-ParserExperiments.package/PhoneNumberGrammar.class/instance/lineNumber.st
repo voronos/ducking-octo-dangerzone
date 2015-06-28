@@ -1,3 +1,3 @@
 accessing
 lineNumber
-^ #digit asParser times: 4
+	^ separator star , (#digit asParser times: 4)

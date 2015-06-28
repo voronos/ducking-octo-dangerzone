@@ -1,3 +1,3 @@
 accessing
 prefix
-^ (#digit asParser times: 3)
+^ separator star, (#digit asParser times: 3) flatten, separator star.

@@ -1,3 +1,3 @@
 accessing
 countryCode
-^ #digit asParser.
+	^ (#digit asParser , separator star) optional

@@ -1,3 +1,3 @@
 accessing
 extension
-	^ #letter asParser optional token , #digit asParser plus flatten
+	^ (separator star, #letter asParser optional , #digit asParser plus flatten) / nil asParser.

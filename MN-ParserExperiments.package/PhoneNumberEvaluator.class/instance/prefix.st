@@ -1,3 +1,3 @@
 accessing
 prefix
-	^ super prefix flatten ==> [ :number | self parsedPrefix: number ]
+	^ super prefix ==> [ :nodes | self parsedPrefix: nodes second. ]

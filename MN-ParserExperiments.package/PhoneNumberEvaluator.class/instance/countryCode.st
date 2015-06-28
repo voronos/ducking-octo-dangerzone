@@ -1,3 +1,3 @@
 accessing
 countryCode
-^ super countryCode ==> [ :char | self parsedCountryCode: char asString ].
+	^ super countryCode ==> [ :nodes | self parsedCountryCode: (nodes ifNil: nil ifNotNil: [ nodes first asString ]) ]
